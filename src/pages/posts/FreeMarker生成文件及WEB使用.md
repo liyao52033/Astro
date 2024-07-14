@@ -1,6 +1,6 @@
 ---
 title: FreeMarker生成文件及WEB使用
-date: 2023-11-23 15:20:08
+pubDate: 2023-11-23 15:20:08
 permalink: /pages/376bd1/
 tags: ["后端","springboot","FreeMarker"]
 author: 华总

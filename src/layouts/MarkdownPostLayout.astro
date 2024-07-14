@@ -4,7 +4,7 @@ const { frontmatter } = Astro.props;
 ---
 
 <BaseLayout pageTitle={frontmatter.title}>
-    <h5>发表于：{frontmatter.date.toString().slice(0, 10)}</h5>
+    <h5>发表于：{frontmatter.pubDate.toString().slice(0, 10)}</h5>
     <h5>{frontmatter.description}</h5>
     <h5>Written by {frontmatter.author}</h5>
 

@@ -4,7 +4,7 @@ autoSort: 990
 permalink: /pages/25d41b/
 tags: ["后端","springboot","canal"]
 titleTag: 原创
-date: 2023-08-24 10:48:15
+pubDate: 2023-08-24
 author: 华总
 ---
 

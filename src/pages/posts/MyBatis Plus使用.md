@@ -3,7 +3,7 @@ title: MyBatis Plus使用
 permalink: /pages/17352a/
 tags: ["MyBatis Plus","springboot","后端"]
 titleTag: 原创
-date: 2023-08-24
+pubDate: 2023-08-24
 author: 华总
 ---
 

@@ -3,8 +3,7 @@ title: EasyCaptcha验证码存入redis的使用
 autoSort: 996
 permalink: /pages/f0631c/
 tags: ["后端","springboot","EasyCaptcha验证码"]
-titleTag: 原创
-date: 2023-08-24 10:40:12
+pubDate: 2023-08-24
 author: 华总
 ---
 
