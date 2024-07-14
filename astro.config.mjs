@@ -1,5 +1,5 @@
 import { defineConfig } from 'astro/config';
-import { RemarkPlugin } from './remark-plugin.mjs';
+ import { RemarkPlugin } from './remark-plugin.mjs';
 import preact from "@astrojs/preact";
 
 export default defineConfig({

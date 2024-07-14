@@ -5,6 +5,10 @@ permalink: /pages/391da0/
 tags: ["后端","springboot","Elasticsearch"]
 titleTag: 原创
 pubDate: 2023-08-24 10:48:13
+description: '这是我 Astro 博客的第一篇文章。'
+image:
+    url: 'https://docs.astro.build/assets/rose.webp'
+    alt: 'The Astro logo on a dark background with a pink glow.'
 author: 华总
 ---
 

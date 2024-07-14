@@ -3,6 +3,10 @@ title: FreeMarker生成文件及WEB使用
 pubDate: 2023-11-23 15:20:08
 permalink: /pages/376bd1/
 tags: ["后端","springboot","FreeMarker"]
+description: 'FreeMarker生成文件及WEB使用'
+image:
+    url: 'https://docs.astro.build/assets/rose.webp'
+    alt: 'The Astro logo on a dark background with a pink glow.'
 author: 华总
 titleTag: 原创
 ---

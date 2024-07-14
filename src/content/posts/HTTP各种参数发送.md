@@ -3,6 +3,10 @@ title: HTTP各种参数发送
 pubDate: 2023-10-05 12:22:10
 permalink: /pages/fa8b06/
 tags: ["后端","springboot"]
+description: '这是我 Astro 博客的第一篇文章。'
+image:
+    url: 'https://docs.astro.build/assets/rose.webp'
+    alt: 'The Astro logo on a dark background with a pink glow.'
 author: 华总
 titleTag: 原创
 ---

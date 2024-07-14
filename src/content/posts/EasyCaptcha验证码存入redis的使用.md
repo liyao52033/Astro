@@ -4,6 +4,10 @@ autoSort: 996
 permalink: /pages/f0631c/
 tags: ["后端","springboot","EasyCaptcha验证码"]
 pubDate: 2023-08-24
+description: '这是我 Astro 博客的第一篇文章。'
+image:
+    url: 'https://docs.astro.build/assets/rose.webp'
+    alt: 'The Astro logo on a dark background with a pink glow.'
 author: 华总
 ---
 
