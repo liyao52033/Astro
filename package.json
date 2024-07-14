@@ -7,7 +7,9 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "disable": "astro preferences disable devToolbar",
+    "global": "astro preferences disable --global devToolbar"
   },
   "dependencies": {
     "astro": "^4.11.5"
