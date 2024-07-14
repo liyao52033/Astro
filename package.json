@@ -12,7 +12,9 @@
     "global": "astro preferences disable --global devToolbar"
   },
   "dependencies": {
+    "@astrojs/preact": "^3.5.0",
     "@astrojs/rss": "^4.0.7",
-    "astro": "^4.11.5"
+    "astro": "^4.11.5",
+    "preact": "^10.22.1"
   }
 }
