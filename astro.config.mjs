@@ -1,9 +1,11 @@
 import { defineConfig } from 'astro/config';
-
+import { RemarkPlugin } from './remark-plugin.mjs';
 import preact from "@astrojs/preact";
 
-// https://astro.build/config
 export default defineConfig({
   site: "https://astro-e88d55.netlify.app",
-  integrations: [preact()]
+  integrations: [preact()],
+  markdown: {
+    remarkPlugins: [RemarkPlugin]
+  },
 });

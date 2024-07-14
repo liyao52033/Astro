@@ -6,7 +6,7 @@ html {
 body {
     margin: 0 auto;
     width: 100%;
-    max-width: 80ch;
+    max-width: 130ch;
     padding: 1rem;
     line-height: 1.5;
 }
@@ -18,6 +18,15 @@ body {
 h1 {
     margin: 1rem 0;
     font-size: 2.5rem;
+}
+
+html.dark {
+    background-color: #0d0950;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
 }
 
 /* 导航样式 */
