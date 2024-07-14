@@ -12,6 +12,7 @@
     "global": "astro preferences disable --global devToolbar"
   },
   "dependencies": {
+    "@astrojs/rss": "^4.0.7",
     "astro": "^4.11.5"
   }
 }
