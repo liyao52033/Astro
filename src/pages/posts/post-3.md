@@ -1,8 +1,6 @@
 ---
 title: 我的第三篇博客文章
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 description: "我遇到了一些问题，但是在社区里面提问真的很有帮助！"
 image:
     url: "https://docs.astro.build/assets/rays.webp"

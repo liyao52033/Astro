@@ -1,8 +1,6 @@
 ---
 title: '我的第四篇博客文章'
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 description: "这篇文章会自己出现在列表中！"
 image:
   url: "https://docs.astro.build/default-og-image.png"

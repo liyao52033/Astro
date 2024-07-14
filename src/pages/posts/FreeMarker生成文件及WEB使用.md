@@ -3,9 +3,7 @@ title: FreeMarker生成文件及WEB使用
 date: 2023-11-23 15:20:08
 permalink: /pages/376bd1/
 tags: ["后端","springboot","FreeMarker"]
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 titleTag: 原创
 ---
 ## 生成本地文件

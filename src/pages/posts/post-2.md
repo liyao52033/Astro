@@ -1,8 +1,6 @@
 ---
 title: 我的第二篇博客文章
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 description: "学习了一些 Astro 后，我根本停不下来！"
 image:
     url: "https://docs.astro.build/assets/arc.webp"

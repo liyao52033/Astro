@@ -3,9 +3,7 @@ title: HTTP各种参数发送
 date: 2023-10-05 12:22:10
 permalink: /pages/fa8b06/
 tags: ["后端","springboot"]
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 titleTag: 原创
 ---
 

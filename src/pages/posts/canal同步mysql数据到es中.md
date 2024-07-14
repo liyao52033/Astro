@@ -5,9 +5,7 @@ permalink: /pages/25d41b/
 tags: ["后端","springboot","canal"]
 titleTag: 原创
 date: 2023-08-24 10:48:15
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 ---
 
 ::: tip 提示

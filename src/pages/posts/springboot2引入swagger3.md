@@ -5,9 +5,7 @@ permalink: /pages/301b87/
 tags: ["后端","springboot","swagger"]
 titleTag: 原创
 date: 2023-08-24 10:48:32
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 ---
 
 ## 1. 引入依赖

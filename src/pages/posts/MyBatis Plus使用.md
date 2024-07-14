@@ -4,9 +4,7 @@ permalink: /pages/17352a/
 tags: ["MyBatis Plus","springboot","后端"]
 titleTag: 原创
 date: 2023-08-24
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 ---
 
 ::: tip 提示

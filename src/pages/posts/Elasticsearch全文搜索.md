@@ -5,9 +5,7 @@ permalink: /pages/391da0/
 tags: ["后端","springboot","Elasticsearch"]
 titleTag: 原创
 date: 2023-08-24 10:48:13
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 ---
 
 ## 在 Windows 上安装 Elasticsearch 作为服务

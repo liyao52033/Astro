@@ -3,9 +3,7 @@ title: EasyExcel具体使用
 date: 2023-11-09 10:16:01
 permalink: /pages/2077cc/
 tags: ["后端","springboot","EasyExcel"]
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 titleTag: 原创
 ---
 ## UploadData（dto类）

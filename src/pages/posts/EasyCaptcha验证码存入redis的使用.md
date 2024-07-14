@@ -5,9 +5,7 @@ permalink: /pages/f0631c/
 tags: ["后端","springboot","EasyCaptcha验证码"]
 titleTag: 原创
 date: 2023-08-24 10:40:12
-author: 
-  name: 华总
-  link: https://xiaoying.org.cn/
+author: 华总
 ---
 
 ## 1. 引入Maven依赖
